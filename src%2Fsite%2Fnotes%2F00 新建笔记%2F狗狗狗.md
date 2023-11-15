@@ -1,5 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/00//"}
+{"dg-publish":true,"permalink":"/00//","dgPassFrontmatter":true}
 ---
 
-你说什么不行
+
+
+
+sdfsdf 
+
+
+sdfsdf
+ 
