@@ -1,5 +1,5 @@
 ---
-{"title":"🏠Home","dg-publish":true,"dg-home":true,"permalink":"/00/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/00/home/","title":"🏠Home","tags":["gardenEntry"]}
 ---
 
 🏠Home
